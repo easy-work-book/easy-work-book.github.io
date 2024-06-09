@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://easy-work-book.github.io
+Sitemap: https://easy-work-book.github.io/sitemap.xml
